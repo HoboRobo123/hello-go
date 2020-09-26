@@ -1,4 +1,4 @@
-# hello-world
-Learning github
+# hello-go
+Learning Go
 
 Hi there
